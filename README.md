@@ -7,9 +7,9 @@ To use the Simplicity Embed&trade; web component you first need to obtain a free
 
 ## Sample Widget
 This example references a vanilla JavaScript widget example that demonstrates 
-<https://github.com/mfoitzik/SimplicityEmbedVanillaJS>
+<https://github.com/mfoitzik/simplicity-embed-widget-example-vanilljs>
 ```
-git clone https://github.com/mfoitzik/SimplicityEmbedVanillaJS
+git clone https://github.com/mfoitzik/simplicity-embed-widget-example-vanilljs.git
 ```
 Open the project in Visual Studio Code and run Live Server or run the code in your dev server of choice. You just need to pay attention to the URL/port it is running on as you will need top reference it later.
 
