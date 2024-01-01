@@ -19,7 +19,7 @@ You can follow the instructions in the Simplicity Embed&trade; documentation fou
 Alternatively you can just clone the sample repo and check out how it works:
 
 ```
-git clone https://github.com/mfoitzik/simplicity-embed-angular-standalone-example.git
+git clone https://github.com/mfoitzik/simplicity-embed-react-example.git
 npm install
 ng serve --open
 ```
